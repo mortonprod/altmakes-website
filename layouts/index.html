@@ -1,0 +1,21 @@
+<html lang="en">
+  <head>
+    {{ partial "header/site-header.html" . }}
+    <!-- <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script> -->
+    <title>ALTMakes</title>
+  </head>
+  <body>
+    <h1>The Start of ALTMakes</h1>
+  </body>
+  <script>
+    if (window.netlifyIdentity) {
+      window.netlifyIdentity.on("init", user => {
+        if (!user) {
+          window.netlifyIdentity.on("login", () => {
+            document.location.href = "/admin/";
+          });
+        }
+      });
+    }
+  </script>
+</html>
