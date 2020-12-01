@@ -4,8 +4,8 @@ backend:
 media_folder: static/img
 public_folder: /img
 collections:
-  - name: 'item'
-    label: 'Item'
+  - name: 'knit'
+    label: 'Knit'
     folder: 'content/item'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
