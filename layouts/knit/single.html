@@ -5,13 +5,83 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <title>{{ .Title }}</title>
+    {{ partial "header/site-header.html" . }}
+  <link href="/index.css" rel="stylesheet"></head>
   </head>
   <body>
-    <h1>{{ .Title }}</h1>
-    <p class="date">{{ .Date }}</p>
-    <p class="description">{{ .Params.description }}</p>
-    <article class="content">
-      {{ .Content }}
-    </article>
+    <div class="navbar navbar-default bs-dos-nav navbar-fixed-top sticky-navigation" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button class="navbar-toggle" data-toggle="collapse" data-target="#rock-navigation">
+            <span class="icon icon-bar"></span>
+            <span class="icon icon-bar"></span>
+            <span class="icon icon-bar"></span>
+          </button>
+          <a href="#" class="navbar-brand">ALTMakes</a>
+        </div>
+        <nav class="collapse navbar-collapse" id="rock-navigation">
+          <ul class="nav navbar-nav navbar-right main-navigation text-uppercase">
+            <li><a href="/#home" class="smoothScroll">Home</a></li>
+            <li><a href="/#work" class="smoothScroll">My Work</a></li>
+            <li><a href="/#portfolio" class="smoothScroll">Portfolio</a></li>
+            <li><a href="/#resume" class="smoothScroll">Resume</a></li>
+            <li><a href="/#about" class="smoothScroll">About</a></li>
+            <li><a href="/#contact" class="smoothScroll">Contact</a></li>
+          </ul>
+        </nav>
+      </div>
+    </div>
+    <section id="resume">
+      <h1 class="title"><strong>{{ .Title }}</strong></h1>
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6 col-sm-6">
+            <div id="carousel" class="carousel slide" data-ride="carousel">
+              <ol class="carousel-indicators">
+                <li data-target="#carousel" data-slide-to="0" class="active"></li>
+                <li data-target="#carousel" data-slide-to="1"></li>
+              </ol>
+              <div class="carousel-inner">
+                <div class="item active">
+                  <img class="d-block w-100" src="/img/wool.jpg" alt="First slide">
+                </div>
+                <div class="item">
+                  <img class="d-block w-100" src="/img/wool-2.jpg" alt="Second slide">
+                </div>
+              </div>
+              <a class="carousel-control-prev" href="#carousel" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+              </a>
+              <a class="carousel-control-next" href="#carousel" role="button" data-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+              </a>
+            </div>
+          </div>
+          <div class="col-md-6 col-sm-6">         
+            <p>{{.Content}}</p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-6 col-sm-6">
+            <h3>Materials</h3>
+            <ul class="list-group">
+              <li class="list-group-item">Cras justo odio asdasd sdasd asdasd sad asd er ewr cwe fewr cwefcdf cdf fwefwerwerewrwerwer</li>
+              <li class="list-group-item">Dapibus ac facilisis in</li>
+              <li class="list-group-item">Morbi leo risus</li>
+              <li class="list-group-item">Porta ac consectetur ac</li>
+              <li class="list-group-item">Vestibulum at eros</li>
+            </ul>
+          </div>
+          <div class="col-md-6 col-sm-6">         
+            <h3>Details</h3>
+            <p>{{.Content}}</p>
+          </div>
+        </div>
+      </div>
+    </section>
+    {{ partial "footer/site-footer.html" . }}
+    <script type="text/javascript" src="/index.js"></script></body>
   </body>
 </html>
