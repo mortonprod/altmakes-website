@@ -17,3 +17,12 @@ collections:
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - { label: 'Image', name: 'image', widget: 'image' }
+  - name: "front"
+    label: "Front"
+    files:
+      - label: "Front Page"
+        name: "front"
+        file: "content/_index.md"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Subtitle, name: subtitle, widget: string}
