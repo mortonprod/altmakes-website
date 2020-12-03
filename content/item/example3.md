@@ -17,7 +17,7 @@ description: |-
   2. list2
   3. list3
 
-  ![Some image in content](/img/screenshot-2020-11-28-at-01.47.39.jpg)
+  ![Some image in content](/img/wool.jpg)
 detail: >-
   This is some details
 
@@ -49,9 +49,9 @@ detail: >-
 
   ![Some image in the content](/img/screenshot-2020-11-28-at-01.47.39.jpg "This is the image in the content")
 images:
-  - image: /img/screenshot-2020-11-28-at-01.47.39.jpg
+  - image: /img/wool.jpg
     alt: "Example image knit pattern"
-  - image: /img/screenshot-2020-11-28-at-01.47.39.jpg
+  - image: /img/wool-2.jpg
     alt: "Example image knit pattern"
 material:
   - text: material 0
