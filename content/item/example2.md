@@ -63,5 +63,5 @@ tags:
   - sock
   - adult
 categories:
-  - crocket
+  - crochet
 ---
