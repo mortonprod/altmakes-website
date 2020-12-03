@@ -9,13 +9,16 @@
       .container p {
         text-align: justify;
       }
+      .orange {
+        color: #A86D38
+      }
     </style>
     {{ partial "header/site-header.html" . }}
   </head>
   <body>
     {{ partial "header/site-nav.html" . }}
     <section class="container">
-        <h1 class="title"><strong>{{ .Title }}</strong></h1>
+        <h1 class="title"><strong class="orange">{{ .Title }}</strong></h1>
         <div class="row">
           <div class="col-md-6 col-sm-6">
             <div id="carousel" class="carousel slide" data-ride="carousel">
@@ -53,13 +56,16 @@
           </div>
           <div class="col-md-6 col-sm-6">         
             <p>{{.Params.Description | .RenderString}}</p>
+            {{ range $key, $value := .Params.tags}}
+              <span style="background: #892E5E" class="label label-default">{{.}}</span>
+            {{end}}
           </div>
         </div>
         {{if or .Params.material .Params.Detail}}
         <div class="row">
           {{if .Params.material}}
             <div class="col-md-6 col-sm-6">
-              <h3>Materials</h3>
+              <h3 class="orange">Materials</h3>
               <ul class="list-group">
                 {{ range .Params.material}}
                   {{if .link}}
@@ -73,7 +79,7 @@
           {{end}}
           {{if .Params.Detail}}
             <div class="col-md-6 col-sm-6">         
-              <h3>Details</h3>
+              <h3 class="orange">Details</h3>
               <p>{{.Params.Detail | .RenderString}}</p>
             </div>
           {{end}}
