@@ -8,4 +8,6 @@ myWorkTitle1: Patterns
 myWorkDescription1: Here is some example text.
 myWorkTitle2: Tutorials
 myWorkDescription2: Here is some example text.
+meTitle: This is Me
+meDescription: This is some text about me
 ---

@@ -55,3 +55,5 @@ collections:
           - {label: "My Work Description 1", name: myWorkDescription1, widget: string}
           - {label: "My Work Title 2", name: myWorkTitle2, widget: string}
           - {label: "My Work Description 2", name: myWorkDescription2, widget: string}
+          - {label: "Me Title", name: meTitle, widget: string}
+          - {label: "Me Description", name: meDescription, widget: string}
