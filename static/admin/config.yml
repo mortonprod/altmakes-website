@@ -58,4 +58,6 @@ collections:
           - {label: "My Work Title 3", name: myWorkTitle3, widget: string}
           - {label: "My Work Description 3", name: myWorkDescription3, widget: string}
           - {label: "Me Title", name: meTitle, widget: string}
-          - {label: "Me Description", name: meDescription, widget: string}
+          - {label: "Etsy Link", name: etsyLink, widget: string}
+          - {label: "Instagram Link", name: instagramLink, widget: string}
+          - {label: "PInterest Link", name: pinterestLink, widget: string}
