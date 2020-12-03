@@ -1,4 +1,5 @@
 ---
+metaTitle: "ALTMakes"
 metaKeywords: "knitting, crochet"
 metaDescription: "A knitting and crochet website"
 title: ALT

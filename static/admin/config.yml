@@ -62,5 +62,6 @@ collections:
           - {label: "Etsy Link", name: etsyLink, widget: string}
           - {label: "Instagram Link", name: instagramLink, widget: string}
           - {label: "PInterest Link", name: pinterestLink, widget: string}
+          - {label: "Meta Title", name: metaTitle, widget: string}
           - {label: "Meta Keywords", name: metaKeywords, widget: string}
           - {label: "Meta Descriptions", name: metaDescription, widget: string}
