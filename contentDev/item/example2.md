@@ -49,9 +49,11 @@ detail: >-
 
   ![Some image in the content](/img/screenshot-2020-11-28-at-01.47.39.jpg "This is the image in the content")
 images:
-  - image: /img/wool.jpg
+  - image: /img/test/dino0.jpg
     alt: "Example image crochet"
-  - image: /img/wool-2.jpg
+  - image: /img/test/dino1.jpg
+    alt: "Example image crochet"
+  - image: /img/test/dino2.jpg
     alt: "Example image crochet"
 material:
   - text: material 0

@@ -21,9 +21,11 @@ detail: >-
   [A link](https://alexandermorton.co.uk)
 
 images:
-  - image: /img/wool.jpg
+  - image: /img/test/face0.jpg
     alt: "Example image knit pattern"
-  - image: /img/wool-2.jpg
+  - image: /img/test/face1.jpg
+    alt: "Example image knit pattern"
+  - image: /img/test/face2.jpg
     alt: "Example image knit pattern"
 material:
   - text: material 0
