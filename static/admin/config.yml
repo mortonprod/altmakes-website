@@ -28,11 +28,16 @@ collections:
         fields:
           - {label: Text, name: text, widget: string}
           - {label: Link, name: link, required: false, widget: string}
+      - label: "Categories"
+        name: "categories"
+        widget: "select"
+        multiple: true
+        options: ["knit", "crochet", "pattern"]
       - label: "Tags"
         name: "tags"
         widget: "select"
         multiple: true
-        options: ["knit", "crochet", "hat","children"]
+        options: ["hat","sock","children"]
   - name: "front"
     label: "Front"
     files:
