@@ -63,20 +63,20 @@
 					<div class="iso-section">
 						<ul class="filter-wrapper clearfix">
 							<li><a href="#" class="opc-main-bg selected" data-filter="*">All</a></li>
-							{{ range .Sections }}
-								<li><a class="opc-main-bg" data-filter=".{{ .Type }}">{{ .Title }}</a></li>
+							{{ range $taxonomyname, $taxonomy := .Site.Taxonomies.categories }}
+									<li><a class="opc-main-bg" data-filter=".{{ $taxonomyname }}">{{ $taxonomyname }}</a></li>
 							{{ end }}
 						</ul>
 						<div class="iso-box-section">
 							<div class="iso-box-wrapper col4-iso-box">
 								{{ range .Site.RegularPages.ByTitle}}
 								<a href="{{ .RelPermalink }}">
-									<div class="iso-box {{ .Type }} col-md-3 col-sm-3 col-xs-12">
+									<div class="iso-box{{ range $key := .Params.categories }} {{$key}} {{end}}col-md-3 col-sm-3 col-xs-12">
 										<div class="portfolio-thumb">
-											<img src="{{ .Params.image }}" class="fluid-img" alt="{{ .Params.image }}">
+											<img src="{{ (index .Params.images 0).image }}" class="fluid-img" alt="{{ (index .Params.images 0).alt }}">
 											<div class="portfolio-overlay">
 												<h3 class="portfolio-item-title">{{ .Params.title }}</h3>
-												<p>{{ .Params.description }}</p>
+												<p>{{ .Params.summary }}</p>
 											</div>
 										</div>
 									</div>
