@@ -48,3 +48,10 @@ collections:
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Subtitle, name: subtitle, widget: string}
+          - {label: Descriptions, name: descriptions, widget: string}
+          - {label: "My Work Title 0", name: myWorkTitle0, widget: string}
+          - {label: "My Work Description 0", name: myWorkDescription0, widget: string}
+          - {label: "My Work Title 1", name: myWorkTitle1, widget: string}
+          - {label: "My Work Description 1", name: myWorkDescription1, widget: string}
+          - {label: "My Work Title 2", name: myWorkTitle2, widget: string}
+          - {label: "My Work Description 2", name: myWorkDescription2, widget: string}
