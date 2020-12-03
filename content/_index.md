@@ -1,4 +1,6 @@
 ---
+metaKeywords: "knitting, crochet"
+metaDescription: "A knitting and crochet website"
 title: ALT
 subtitle: makes
 servicesTitle0: Knits
