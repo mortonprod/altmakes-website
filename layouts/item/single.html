@@ -60,7 +60,7 @@
             </div>
           </div>
           <div class="col-md-6 col-sm-6">         
-            <p>{{.Content}}</p>
+            <p>{{.Params.Description | .RenderString}}</p>
           </div>
         </div>
         <div class="row">
@@ -76,7 +76,7 @@
           </div>
           <div class="col-md-6 col-sm-6">         
             <h3>Details</h3>
-            <p>{{.Content}}</p>
+            <p>{{.Params.Detail | .RenderString}}</p>
           </div>
         </div>
       </div>
