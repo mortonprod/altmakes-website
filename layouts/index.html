@@ -1,8 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-{{ partial "header/site-header.html" . }}
+	{{ partial "header/site-header.html" . }}
 </head>
+
 <body data-spy="scroll" data-target="#rock-navigation">
 	{{ partial "header/site-nav.html" . }}
 	<section id="home" class="altmakes-home">
@@ -35,8 +37,8 @@
 						<p class="justify">{{.Params.servicesDescription1}}</p>
 					</div>
 				</div>
-				</div>
-				<div class="row">
+			</div>
+			<div class="row">
 				<div class="col-md-6 col-sm-6">
 					<div class="work-wrapper">
 						<h3 class="text-uppercase tm-work-h3">{{.Params.servicesTitle2}}</h3>
@@ -51,7 +53,7 @@
 						<p class="justify">{{.Params.servicesDescription3}}</p>
 					</div>
 				</div>
-				</div>
+			</div>
 		</div>
 	</section>
 	<section id="portfolio" class="tm-portfolio">
@@ -65,16 +67,18 @@
 						<ul class="filter-wrapper clearfix">
 							<li><a href="#" class="opc-main-bg selected" data-filter="*">All</a></li>
 							{{ range $taxonomyname, $taxonomy := .Site.Taxonomies.categories }}
-									<li><a class="opc-main-bg" data-filter=".{{ $taxonomyname }}">{{ $taxonomyname }}</a></li>
+							<li><a class="opc-main-bg" data-filter=".{{ $taxonomyname }}">{{ $taxonomyname }}</a></li>
 							{{ end }}
 						</ul>
 						<div class="iso-box-section">
 							<div class="iso-box-wrapper col4-iso-box">
 								{{ range .Site.RegularPages.ByTitle}}
 								<a href="{{ .RelPermalink }}">
-									<div class="iso-box{{ range $key := .Params.categories }} {{$key}} {{end}}col-md-3 col-sm-3 col-xs-12">
+									<div
+										class="iso-box{{ range $key := .Params.categories }} {{$key}} {{end}}col-md-3 col-sm-3 col-xs-12">
 										<div class="portfolio-thumb">
-											<img src="{{ (index .Params.images 0).image }}" class="fluid-img" alt="{{ (index .Params.images 0).alt }}">
+											<img src="{{ (index .Params.images 0).image }}" class="fluid-img"
+												alt="{{ (index .Params.images 0).alt }}">
 											<div class="portfolio-overlay">
 												<h3 class="portfolio-item-title">{{ .Params.title }}</h3>
 												<p>{{ .Params.summary }}</p>
@@ -83,11 +87,11 @@
 									</div>
 								</a>
 								{{ end }}
+							</div>
 						</div>
 					</div>
 				</div>
 			</div>
-		</div>
 	</section>
 	<section id="about" class="tm-about">
 		<div class="container">
@@ -149,9 +153,9 @@
 	<section id="contact" class="tm-contact">
 		<div class="container">
 			<div class="row">
-				<div class="title col-md-12">         
+				<div class="title col-md-12">
 					<h2>Contact</h2>
-					<hr>          
+					<hr>
 				</div>
 				<div class="col-md-1 col-sm-1"></div>
 				<div class="col-md-10 col-sm-10">
@@ -174,7 +178,7 @@
 				<div class="col-md-1 col-sm-1"></div>
 				<div class="col-md-12 col-sm-12">
 					<p>Copyright &copy; 2020
-										. Website: <a href="https://alexandermorton.co.uk">Alexander Morton</a></p>
+						. Website: <a href="https://alexandermorton.co.uk">Alexander Morton</a></p>
 				</div>
 			</div>
 		</div>
@@ -192,4 +196,5 @@
 		}
 	</script>
 </body>
+
 </html>
