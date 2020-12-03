@@ -1,7 +1,6 @@
 ---
 title: ALT
 subtitle: makes
-descriptions: I am a Kniiter and crochet creating patterns for Personal and Business. Let us work together. 
 servicesTitle0: Knits
 servicesDescription0: Here is some example text.
 servicesTitle1: Patterns
