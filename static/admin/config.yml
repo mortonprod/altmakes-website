@@ -39,6 +39,7 @@ collections:
         name: "tags"
         widget: "select"
         multiple: true
+        required: false
         options: ["hat","sock","children"]
   - name: "front"
     label: "Front"
