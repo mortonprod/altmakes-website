@@ -2,7 +2,6 @@
 title: Test Item
 date: 2020-12-03T14:24:04Z
 summary: This is quick summary
-draft: true
 description: |-
   This is a longer description
 
