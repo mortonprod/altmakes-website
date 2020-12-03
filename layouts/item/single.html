@@ -62,11 +62,13 @@
           <div class="col-md-6 col-sm-6">
             <h3>Materials</h3>
             <ul class="list-group">
-              <li class="list-group-item">Cras justo odio asdasd sdasd asdasd sad asd er ewr cwe fewr cwefcdf cdf fwefwerwerewrwerwer</li>
-              <li class="list-group-item">Dapibus ac facilisis in</li>
-              <li class="list-group-item">Morbi leo risus</li>
-              <li class="list-group-item">Porta ac consectetur ac</li>
-              <li class="list-group-item">Vestibulum at eros</li>
+              {{ range .Params.material}}
+                {{if .link}}
+                  <a href={{.link}}><li class="list-group-item">{{.text}}</li></a>
+                {{else}}
+                  <li class="list-group-item">{{.text}}</li>
+                {{end}}
+              {{end}}
             </ul>
           </div>
           <div class="col-md-6 col-sm-6">         

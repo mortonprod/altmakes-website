@@ -58,7 +58,7 @@ material:
   - text: material 0
     link: https://alexandermorton.co.uk
   - text: material 1
-    link: https://alexandermorton.co.uk
+  - text: This is a long description of material needed. More more more more more more more more
 tags:
   - sock
   - adult
