@@ -6,9 +6,9 @@ public_folder: /img
 collections:
   - name: 'knit'
     label: 'Knit'
-    folder: 'content/knit'
+    folder: 'content/item'
     create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    slug: '{{day}}-{{month}}-{{year}}-{{slug}}'
     editor:
       preview: false
     fields:
