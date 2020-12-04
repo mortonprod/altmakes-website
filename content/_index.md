@@ -2,7 +2,7 @@
 metaTitle: "ALTMakes"
 metaKeywords: "knitting, crochet"
 metaDescription: "A knitting and crochet website"
-title: ALT
+title: Anna Louise Turner
 subtitle: makes
 servicesTitle0: Knits
 servicesDescription0: Here is some example text.
