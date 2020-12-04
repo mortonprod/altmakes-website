@@ -376,7 +376,7 @@ input { height: 50px; }
 /* Load up small image if on mobile */
 @media (max-width: 480px) {
   .altmakes-home {
-    background: url('/img/background.jpg?nf_resize=fit&w=320');
+    background: url('/img/background.jpg?nf_resize=fit&w=640');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
