@@ -147,7 +147,7 @@ hr {
   border: 1px solid #666;
   border-radius: 2px;
   text-align: center;
-  padding: 80px 40px 80px 40px;
+  padding: 40px 20px 40px 20px;
   -webkit-transition: all 0s ease-in;
           transition: all 0s ease-in;
 }
@@ -157,6 +157,11 @@ hr {
   font-size: 60px;
   padding-bottom: 40px;
 }
+
+.icon {
+  height:100px;
+}
+
 .tm-portfolio {
   background: #f8f8f8;
   padding-top: 80px;
