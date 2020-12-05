@@ -19,6 +19,40 @@ hr {
   width: 100px;
   margin-bottom: 40px;
 }
+/* Roll */
+/* @keyframes logo {
+  0%   { transform: translateX(-600px) translateY(-100px); }
+  12.5%  { transform: translateX(-525px) rotate(45deg) translateY(-75px); }
+  25%  { transform: translateX(-450px) rotate(90deg) translateY(-50px); }
+  37.5%  { transform: translateX(-375px) rotate(135deg) translateY(-25px); }
+  50%  { transform: translateX(-300px) rotate(180deg) translateY(0px); }
+  62.5%  { transform: translateX(-225px) rotate(225deg) translateY(25px); }
+  75%  { transform: translateX(-150px) rotate(270deg) translateY(50px); }
+  75%  { transform: translateX(-75px) rotate(315deg) translateY(25px); }
+  100% { transform: translateX(0px) rotate(360deg) translateY(0px); }
+} */
+
+/* Bounce and wiggle */
+/* @keyframes logo {
+  0%   { transform: scale(1,1)      translateY(-300px); }
+  50%  { transform: scale(1,1) translateY(0); }
+  55%  { transform: rotate(5deg); }
+  60%  { transform: rotate(-5deg); }
+  65%  { transform: rotate(5deg); }
+  70%  { transform: rotate(-5deg); }
+  75%  { transform: rotate(5deg); }
+  80%  { transform: rotate(-5deg); }
+  85%  { transform: rotate(5deg); }
+  90%  { transform: rotate(-5deg); }
+  100% { transform: scale(1,1)      translateY(0); }
+} */
+
+/* .logo {
+  animation-name: logo;
+  animation-timing-function: linear;
+  animation-duration: 1s;
+} */
+
 .title {
   color:black;
   font-size: 60px;
