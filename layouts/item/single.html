@@ -18,7 +18,8 @@
   <body>
     {{ partial "header/site-nav.html" . }}
     <section class="container">
-        <h1 class="title"><strong class="orange">{{ .Title }}</strong></h1>
+        <h1 style="padding-bottom: 0;" class="title text-center"><strong class="orange">{{ .Title }}</strong></h1>
+        <img style="margin:auto; display: block" class="text-center" src="/img/flowers.png">
         <div class="row">
           <div class="col-md-6 col-sm-6">
             <div id="carousel" class="carousel slide" data-ride="carousel">
@@ -31,15 +32,15 @@
                   {{end}}
                 {{end}}
               </ol>
-              <div class="carousel-inner">
+              <div style="max-height:400px" class="carousel-inner">
                 {{ range $key, $value := .Params.images}}
                   {{if eq $key 0 }}
                     <div class="item active">
-                      <img class="d-block w-100" src="{{$value.image}}" alt="{{$value.alt}}">
+                      <img style="margin-top:20px" src="{{$value.image}}" alt="{{$value.alt}}">
                     </div>
                   {{else}}
                     <div class="item">
-                      <img class="d-block w-100" src="{{$value.image}}" alt="{{$value.alt}}">
+                      <img style="margin-top:20px" src="{{$value.image}}" alt="{{$value.alt}}">
                     </div>
                   {{end}}
                 {{end}}
@@ -57,7 +58,7 @@
           <div class="col-md-6 col-sm-6">         
             <p>{{.Params.Description | .RenderString}}</p>
             {{ range $key, $value := .Params.tags}}
-              <span style="background: #892E5E" class="label label-default">{{.}}</span>
+              <span style="background: #892E5E; font-size:15px" class="label label-default">{{.}}</span>
             {{end}}
           </div>
         </div>
