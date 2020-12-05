@@ -46,6 +46,20 @@ hr {
   90%  { transform: rotate(-5deg); }
   100% { transform: scale(1,1)      translateY(0); }
 } */
+/* Drop in */
+/* @keyframes logo {
+  0%   { transform: translateY(-300px); }
+  50%  { transform: translateY(0); }
+  55%  { transform: rotate(5deg); }
+  60%  { transform: rotate(-5deg); }
+  65%  { transform: rotate(5deg); }
+  70%  { transform: rotate(-5deg); }
+  75%  { transform: rotate(5deg); }
+  80%  { transform: rotate(-5deg); }
+  85%  { transform: rotate(5deg); }
+  90%  { transform: rotate(-5deg); }
+  100% { transform: scale(1,1)      translateY(0); }
+} */
 
 /* .logo {
   animation-name: logo;
