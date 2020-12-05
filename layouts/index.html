@@ -78,7 +78,7 @@
 									<div
 										class="iso-box{{ range $key := .Params.categories }} {{$key}} {{end}}col-md-3 col-sm-3 col-xs-12">
 										<div class="portfolio-thumb">
-											<img src="{{ (index .Params.images 0).image }}" class="fluid-img"
+											<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcy8pwEAADTgFldBIbqAAAAABJRU5ErkJggg==" data-src="{{ (index .Params.images 0).image }}" class="fluid-img lazy"
 												alt="{{ (index .Params.images 0).alt }}">
 											<div class="portfolio-overlay">
 												<h3 class="portfolio-item-title">{{ .Params.title }}</h3>
