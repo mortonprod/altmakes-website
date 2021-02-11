@@ -10,15 +10,16 @@ servicesDescription0: "I love to learn new techniques all the time, which
   time it is simply because the pattern called to me and just needed to be made.
   I try to make one offs to make every creation unique but occasionally I will
   bulk make certain items for seasonal events. If you're looking to buy one of
-  my pre- made items please have a look through my Etsy shop. "
+  my pre- made items please have a look through my Etsy shop to see what is
+  currently on offer.. "
 servicesTitle1: Custom Made
 servicesDescription1: Here is some example text.
 servicesTitle2: Patterns
-servicesDescription2: "After following various patterns over the years I
-  occasionally found myself altering some of them to better suit my needs or
-  equipment, or looking for the right design and not being able to find them.
-  Some of my slightly altered patterns I will write up in blog posts on the
-  website, while the patterns made from scratch can be found on my Etsy shop. "
+servicesDescription2: After following various patterns over the years and either
+  occasionally altering them to suit my needs or not being able to find exactly
+  what I was after, I started to create my own patterns. Links or credits to all
+  the patterns I have followed from others are detailed in the individual pages
+  below, and all of my own patterns are available to buy on my Etsy shop.
 servicesTitle3: Tutorials
 servicesDescription3: Here is some example text.
 etsyLink: https://www.etsy.com
