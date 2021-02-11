@@ -1,17 +1,5 @@
 ---
-meTitle: Hello! I'm Anna Louise Turner and welcome to my website of woolen
-  creations.   Since leaving my job earlier in the year I found myself focusing
-  more and more on my crochet and knitting (as well as planning for travel
-  across Europe, when such luxuries are allowed again) and decided to lean into
-  my refounded passion.  I grew up in the north west of England, where my great
-  auntie taught me the basics of knitting and crocheting, either when she would
-  come to visit or we visited her in Glasgow. I later moving to Glasgow to do my
-  degree in Earth Science and stayed on working (until recently) as a
-  Geotechnical and Environmental engineer. It wasn't until a few years ago, and
-  after inheriting my great auntie's needles and hooks A few of my favourite
-  things include family and friends, the great outdoors, geology, music and
-  gigging, food (specifically all things potato), sudoku, fluffy socks, gin and,
-  of course, crochet and knitting.
+meTitle: This is me
 meDescription: This is some text about me
 title: Anna Louise Turner
 subtitle: ALTmakes
@@ -46,8 +34,8 @@ servicesDescription3: "From learning only the basics from a young age and not
   tips and how - tos. If there's anything in particular you would like to know
   but I've not got anything listed about it, please feel free to get in touch
   via the contact form at the bottom of the page. "
-etsyLink: https://www.etsy.com
-instagramLink: https://www.instagram.com
+etsyLink: https://www.etsy.com/shop/altmakes
+instagramLink: https://www.instagram.com/alt.makes
 pinterestLink: https://www.pinterest.co.uk
 metaTitle: ALTMakes
 metaKeywords: knitting, crochet
