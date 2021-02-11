@@ -6,8 +6,9 @@ subtitle: ALTmakes
 servicesTitle0: Pre Made
 servicesDescription0: I love to learn new techniques all the time, which results
   in me creating an assortment of knitted and crocheted items throughout the
-  year. Sometimes I will have a recipient in mind for them but a lot of the time
-  I find certain patterns or ideas irresistible! I tend to make one offs to make
+  year. Sometimes I have a recipient in mind for them but a lot of the time I
+  find certain patterns or ideas irresistible and can't help but create them -
+  regardless of what materials I have to hand! I tend to make one offs to make
   every creation unique but occasionally I will bulk make certain items for
   seasonal events. If you're looking to buy one of my pre- made items please
   have a look through my Etsy shop to see what is currently available.
@@ -24,16 +25,17 @@ servicesTitle2: Patterns
 servicesDescription2: After following various patterns over the years and either
   occasionally altering them to suit my needs or not being able to find exactly
   what I was after, I started to create my own patterns. Links or credits to all
-  the patterns I have followed from others are detailed in the individual pages
-  below, and all of my own patterns are available to buy on my Etsy shop.
+  the patterns I have followed from others are detailed in the individual item
+  pages (see creations below), and all of my own patterns are available to buy
+  on my Etsy shop (linked towards the bottom of the page).
 servicesTitle3: Tutorials
 servicesDescription3: "From learning only the basics from a young age and not
-  picking my needles and hooks back up until fairly recently, I am still
-  learning every day and discovering my own preferred way of doing things. Here,
-  I will share some of the most useful things I have picked up and a couple of
-  tips and how - tos. If there's anything in particular you would like to know
-  but I've not got anything listed about it, please feel free to get in touch
-  via the contact form at the bottom of the page. "
+  picking my needles and hooks back up a few years ago, I am still learning
+  every day and discovering my own preferred way of doing things. Here, I will
+  share some of the most useful things I have picked up and a couple of tips and
+  how - tos. If there's anything in particular you would like to know but I've
+  not got anything listed about it, please feel free to get in touch via the
+  contact form at the bottom of the page. "
 etsyLink: https://www.etsy.com/shop/altmakes
 instagramLink: https://www.instagram.com/alt.makes
 pinterestLink: https://www.pinterest.co.uk
