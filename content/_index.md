@@ -12,14 +12,13 @@ servicesDescription0: I love to learn new techniques all the time, which results
   seasonal events. If you're looking to buy one of my pre- made items please
   have a look through my Etsy shop to see what is currently available.
 servicesTitle1: Custom Made
-servicesDescription1: "As well as items I make generally I love creating that
-  special something for a special someone. If you would like something from my
-  portfolio (see creations below) but would like it customised, or would like
+servicesDescription1: As well as items I make generally, I love creating that
+  special something for a special someone. So, if you would like something from
+  my portfolio (see creations below) but would like it customised, or would like
   something completely different please get in touch through the contact form at
   the bottom of the page. I would love to work with you to see that creation
   come to life. Prices of a custom make will depend on the size of the item,
-  type of wool used and time needed to create
-  it.                                                      "
+  type of wool used and time needed to create it.
 servicesTitle2: Patterns
 servicesDescription2: After following various patterns over the years and either
   occasionally altering them to suit my needs or not being able to find exactly
