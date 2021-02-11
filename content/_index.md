@@ -18,7 +18,8 @@ servicesDescription1: "As well as items I make generally I love creating that
   something completely different please get in touch through the contact form at
   the bottom of the page. I would love to work with you to see that creation
   come to life. Prices of a custom make will depend on the size of the item,
-  type of wool used and time needed to create it. "
+  type of wool used and time needed to create
+  it.                                                      "
 servicesTitle2: Patterns
 servicesDescription2: After following various patterns over the years and either
   occasionally altering them to suit my needs or not being able to find exactly
@@ -27,7 +28,8 @@ servicesDescription2: After following various patterns over the years and either
   below, and all of my own patterns are available to buy on my Etsy shop.
 servicesTitle3: Tutorials
 servicesDescription3: "From learning only the basics from a young age and not
-  picking my needles back up "
+  picking my needles back up fairly recently I am still learning every day and
+  discovering my own preferred way of doing things. "
 etsyLink: https://www.etsy.com
 instagramLink: https://www.instagram.com
 pinterestLink: https://www.pinterest.co.uk
