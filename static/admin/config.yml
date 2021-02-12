@@ -34,13 +34,13 @@ collections:
         name: "categories"
         widget: "select"
         multiple: true
-        options: ["knit", "crochet", "pattern"]
+        options: ["Knit", "Crochet", "Pattern"]
       - label: "Tags"
         name: "tags"
         widget: "select"
         multiple: true
         required: false
-        options: ["hat","sock","children"]
+        options: ["Hat","Sock","Children"]
   - name: "front"
     label: "Front"
     files:
