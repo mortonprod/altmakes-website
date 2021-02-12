@@ -12,7 +12,7 @@ description: "One of my first free hand creations was born from the arrival of
   bumper packs) as well as randomising both colour and width of each block;
   which is a lot harder than you might imagine."
 images:
-  - image: /img/draft-excluder-1.jpg
+  - image: /img/draft-excluder-3.jpg
 material:
   - text: 3.5mm hook
   - text: Stitch Marker
