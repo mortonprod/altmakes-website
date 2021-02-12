@@ -310,6 +310,7 @@ hr {
   width: 100%;
   display: block;
   height: auto;
+  object-fit: cover;
 }
 .tm-white-text { color:red; }
 .tm-info-label {
