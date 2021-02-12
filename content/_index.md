@@ -35,24 +35,24 @@ servicesDescription3: "From learning only the basics from a young age and not
   not got anything listed about it, please feel free to get in touch via the
   contact form at the bottom of the page. "
 meTitle: This is me
-meDescription: "<b>Hello!</b>   I'm Anna Louise Turner and welcome to my website
-  of woolen creations.     I grew up in the north west of England, where my
-  great aunt taught me the basics of knitting and crocheting, either when she
-  would come to visit or we visited her in Glasgow. I later moved to Glasgow to
-  do my degree in Earth Science and stayed on working (until recently) as a
-  Geotechnical and Environmental engineer. It wasn't until a few years ago, when
-  I attended a craft fair and got chatting to some lovely knitters selling the
-  most gorgeous arran wool, that I decided to pick back up my needles and get
-  crafting again. Progress was usually quite slow to start, with work or general
-  life (and plenty of non- excuses) getting in the way of starting… or even
-  finishing a project. However, since leaving my job in 2020 I found myself
-  focusing more and more on my crochet and knitting (as well as planning for
-  travel across Europe, when such luxuries are allowed again) and decided to
-  lean into my refounded passion.    Having learnt only the basics at a young
-  age, I’m still learning a lot of techniques and styles of yarn work but loving
-  every moment of it and eager to keep improving.    Please feel free to have a
-  look around my website, instagram page and etsy shop, or get in touch via the
-  contact form below. "
+meDescription: "**Hello!**   I'm Anna Louise Turner and welcome to my website of
+  woolen creations.     I grew up in the north west of England, where my great
+  aunt taught me the basics of knitting and crocheting, either when she would
+  come to visit or we visited her in Glasgow. I later moved to Glasgow to do my
+  degree in Earth Science and stayed on working (until recently) as a
+  Geotechnical and Environmental engineer. However, it wasn't until a few years
+  ago, when I attended a craft fair and got chatting to some lovely knitters
+  selling the most gorgeous arran wool, that I decided to pick back up my
+  needles and get crafting again. Progress was usually quite slow to start, with
+  work or general life (and plenty of non- excuses) getting in the way of
+  starting… or even finishing a project. However, since leaving my job in 2020 I
+  found myself focusing more and more on my crochet and knitting (as well as
+  planning for travel across Europe, when such luxuries are allowed again) and
+  decided to lean into my refounded passion.    Having learnt only the basics at
+  a young age, I’m still learning a lot of techniques and styles of yarn work
+  but loving every moment of it and eager to keep improving.    Please feel free
+  to have a look around my website, instagram page and etsy shop, or get in
+  touch via the contact form below. "
 etsyLink: https://www.etsy.com/shop/altmakes
 instagramLink: https://www.instagram.com/alt.makes
 pinterestLink: https://www.pinterest.co.uk
