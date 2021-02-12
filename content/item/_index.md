@@ -1,6 +1,7 @@
 ---
 title: Crocheted Draft Excluder
-date: 2021-02-12T18:29:05.294Z
+date: 2021-02-12T22:58:25.411Z
+summary: "This is a draft excluder. "
 description: >-
   One of my first free hand creations was born from the arrival of two things: a
   bitterly cold Scottish winter and a bumper pack of multicoloured wool. Having
