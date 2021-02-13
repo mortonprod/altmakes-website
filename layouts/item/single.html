@@ -36,11 +36,11 @@
                 {{ range $key, $value := .Params.images}}
                   {{if eq $key 0 }}
                     <div class="item active">
-                      <img class="fluid-img" style="margin-top:20px" src="{{$value.image}}" alt="{{$value.alt}}">
+                      <img style="max-width: 400px; margin: auto; object-fit: contain; margin-top:20px;" src="{{$value.image}}" alt="{{$value.alt}}">
                     </div>
                   {{else}}
                     <div class="item">
-                      <img class="fluid-img" style="margin-top:20px" src="{{$value.image}}" alt="{{$value.alt}}">
+                      <img style="max-width: 400px; margin: auto; object-fit: contain; margin-top:20px;" src="{{$value.image}}" alt="{{$value.alt}}">
                     </div>
                   {{end}}
                 {{end}}
