@@ -56,7 +56,7 @@
             </div>
           </div>
           <div class="col-md-6 col-sm-6">         
-            <p>{{.Params.Description | .RenderString}}</p>
+            <p style="margin-top:20px">{{.Params.Description | .RenderString}}</p>
             {{ range $key, $value := .Params.tags}}
               <span style="background: #892E5E; font-size:15px" class="label label-default">{{.}}</span>
             {{end}}
