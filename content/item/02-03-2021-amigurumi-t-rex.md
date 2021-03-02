@@ -45,6 +45,8 @@ images:
   - image: /img/dino-7.jpg
   - image: /img/dino-8-.jpg
   - image: /img/dino-4-.jpg
+  - image: /img/dino-1-1-.jpg
+  - {}
 material:
   - text: Size G crochet hook (4.0 mm)
   - text: Worsted-weight yarn in Green, Red, Beige, White and Black
