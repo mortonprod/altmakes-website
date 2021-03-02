@@ -21,8 +21,37 @@ description: >-
 
 
   Over the following years, little by little, and in between other projects, I sewed together the head, body, legs and one foot. For reasons I can't remember this is where the dinosaur stayed until Lockdown no.1 2020 and made a promise with myself that I was to finish off all part done projects before starting any new ones. Finally, after almost 3 full years the T-Rex was whole and ready to be gifted! I am pleased to say the T-Rex was well received and at an age where her love for dinosaurs was coming in to full swing (which was, of course, the plan all along!!)
+detail: >-
+  Extra Info: The only alterations to the pattern that I made was for the eyes.
+  I didn't have any felt and I don't trust safety eyes for small children.
+  Instead I crocheted each eye by following the below steps: 
+
+
+  1. With black yarn: Create a magic circle and SC 6. (6 stitches)
+
+
+  2. SC x 2 in each stitch. Switch to white yarn on the final stitch. (12 stitches)
+
+
+  3. \[SC x 2, SC x 1] Repeat x 6. (18 stitches) 
+
+
+  Leaving a long tail for sewing, cut yarn and tie off. 
+
+
+  Position eyes as you feel they look best on the head and sew to the head. I found this [video ](https://www.youtube.com/watch?v=JSKeRWHxcvE)a great how- to.
+images:
+  - image: /img/dino-1-.jpg
+  - image: /img/dino-7.jpg
+  - image: /img/dino-8-.jpg
+  - image: /img/dino-4-.jpg
 material:
-  - text: 4mm Hook
+  - text: Size G crochet hook (4.0 mm)
+  - text: Worsted-weight yarn in Green, Red, Beige, White and Black
+  - text: Fiberfill or stuffing
+  - text: Needle with a large eye
+  - text: Stitch Marker
+  - text: Pins
 categories:
   - Crochet
 ---
