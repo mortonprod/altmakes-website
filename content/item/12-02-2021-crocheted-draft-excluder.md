@@ -19,4 +19,5 @@ material:
   - text: Double Knit yarn
 categories:
   - Crochet
+  - Pattern
 ---
