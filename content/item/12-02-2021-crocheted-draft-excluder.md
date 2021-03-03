@@ -18,5 +18,5 @@ material:
   - text: Stitch Marker
   - text: Double Knit yarn
 categories:
-  - crochet
+  - Crochet
 ---
