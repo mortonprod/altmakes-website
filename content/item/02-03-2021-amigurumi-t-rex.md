@@ -5,9 +5,9 @@ summary: Rawwr-some project for dinosaur lovers.
 description: >-
   When my fellow geologist announced she was pregnant with her first baby back
   in 2017, my woolen brain knew exactly what to make... an amigurumi Dinosaur!
-  The hunt was on to find the cutest pattern I could find. After hours of
-  searching and seeing so many beautiful patterns, I finally settled on this
-  adorable T-Rex by Kristel - Available as a [free download from
+  The hunt was on for the cutest pattern I could find. After hours of searching
+  and seeing so many beautiful patterns, I finally settled on this adorable
+  T-Rex by Kristel - Available as a [free download from
   Ravelry](https://www.ravelry.com/patterns/library/t-rex-amigurumi). 
 
 
