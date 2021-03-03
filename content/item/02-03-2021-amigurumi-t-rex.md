@@ -42,12 +42,11 @@ detail: >-
 
   Position eyes as you feel they look best on the head and sew to the head. I found this [video ](https://www.youtube.com/watch?v=JSKeRWHxcvE)a great how- to.
 images:
-  - image: /img/dino-1-.jpg
+  - image: /img/dino-1-1-.jpg
   - image: /img/dino-7.jpg
   - image: /img/dino-8-.jpg
   - image: /img/dino-4-.jpg
-  - image: /img/dino-1-1-.jpg
-  - {}
+  - image: /img/dino-3-.jpg
 material:
   - text: Size G crochet hook (4.0 mm)
   - text: Worsted-weight yarn in Green, Red, Beige, White and Black
