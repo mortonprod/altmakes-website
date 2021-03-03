@@ -17,7 +17,7 @@ description: >-
   Prepped with my new hook in hand, I was on my way to creating toys for the next generation of geologists... Or so I thought!
 
 
-  About half way through the head, I was at a loss as to why my work wasn't looking anything like pictures. One stress out later I decided to go back to my faithful teacher - YouTube - and figure out where I was going wrong. It was at this moment I realised the UK and the US have different names for the same stitches, and to make things more confusing the names are almost the same but just off by one *\*Deep Breaths\**. Turns out I, being situated in the UK, had been watching US videos and had learnt all their terminology (which is also why my patterns tend to be in US terms. Personally they make more sense and I find it difficult to unlearn now).
+  About half way through the head, I was at a loss as to why my work wasn't looking anything like the pictures. One stress out later I decided to go back to my faithful teacher - YouTube - and figure out where I was going wrong. It was at this moment I realised the UK and the US have different names for the same stitches, and to make things more confusing the names are almost the same but just off by one \*\*Deep Breaths\*\*. Turns out, I, living in the UK, had been watching US videos and had learnt all their terminology (which is also why my patterns tend to be in US terms. Personally they make more sense and I find it difficult to unlearn now).
 
 
   The pain was real having to unravel what I had just spent ages making but attempt no.2 and ***Hallelujah***, it worked! Now on a roll I finished the head and remaining individual items over the following months and was ready to sew my adorable T-Rex together.... Ah, another stumbling block. Sewing - Possibly my least favourite part (so much so I will purposefully pick all in one patterns if I can). After a number of attempts to sew the head to the body, and failing terribly, I am ashamed to say my dinosaur went back into a bag, unsewn, and I missed the birth of the recipient. Thankfully I have very understanding friends. 
@@ -25,9 +25,9 @@ description: >-
 
   Over the following years, little by little, and in between other projects, I sewed together the head, body, legs and one foot. For reasons I can't remember this is where the dinosaur stayed until Lockdown no.1 2020 and I made a promise with myself that I was to finish all part done projects before starting any new ones. Finally, after almost 3 full years the T-Rex was whole and ready to be gifted! I am pleased to say the T-Rex was well received and at an age where her love for dinosaurs was coming in to full swing (which was, of course, the plan all along!!)
 detail: >-
-  The only alterations to the pattern that I made was for the eyes. I didn't
-  have any felt and I don't trust safety eyes for small children. Instead I
-  crocheted each eye by following the below steps: 
+  The only alterations to the pattern I made was for the eyes. I didn't have any
+  felt and I don't trust safety eyes for small children. Instead I crocheted
+  each eye by following the below steps: 
 
 
   1. With black yarn: Create a magic circle and SC 6. (6 stitches)
