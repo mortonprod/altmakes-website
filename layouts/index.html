@@ -69,7 +69,7 @@
 						<ul class="filter-wrapper clearfix">
 							<li><a href="#" class="opc-main-bg selected" data-filter="*">All</a></li>
 							{{ range $taxonomyname, $taxonomy := .Site.Taxonomies.categories }}
-							<li><a class="opc-main-bg" data-filter=".{{ $taxonomyname }}">{{ $taxonomyname }}</a></li>
+							<li><a class="opc-main-bg" data-filter=".{{ $taxonomyname | humanize }}">{{ $taxonomyname | humanize }}</a></li>
 							{{ end }}
 						</ul>
 						<div class="iso-box-section">

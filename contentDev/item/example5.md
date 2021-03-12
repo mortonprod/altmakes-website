@@ -1,5 +1,5 @@
 ---
-title: Test Item
+title: AMIGURUMI T-REX
 date: 2020-12-03T22:50:58Z
 summary: This is quick summary
 description: |-
