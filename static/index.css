@@ -411,12 +411,12 @@ hr {
 input { height: 50px; }
 .tm-contact p { padding-top: 40px; }
 
-@media screen and (min-width: 1000px){
+/* @media screen and (min-width: 1000px){
   .container {
     margin-right: 10px;
     margin-left: 10px;
   }
-}
+} */
 
 @media screen and (max-device-width: 1024px){
   .altmakes-home {
