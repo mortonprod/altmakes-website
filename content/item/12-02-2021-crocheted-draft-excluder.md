@@ -11,6 +11,7 @@ description: "One of my first free hand creations was born from the arrival of
   bumper pack (some were duplicates which is always a possibility when buying
   bumper packs) as well as randomising both colour and width of each block;
   which is a lot harder than you might imagine."
+detail: T﻿est detail
 images:
   - image: /img/draft-excluder-3.jpg
 material:
