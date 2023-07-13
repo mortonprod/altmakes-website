@@ -57,6 +57,6 @@ etsyLink: https://www.etsy.com/shop/altmakes
 instagramLink: https://www.instagram.com/alt.makes
 pinterestLink: https://www.pinterest.co.uk
 metaTitle: ALTMakes
-metaKeywords: knitting, crochet
-metaDescription: A knitting and crochet website
+metaKeywords: knitting, crochet, embroidery, crafts, fibre arts
+metaDescription: A fibre arts website
 ---
