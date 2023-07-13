@@ -37,6 +37,8 @@ detail: >-
   r﻿ep  repeat
 
 
+
+
   **D﻿raft Excluder Pattern:**
 
 
@@ -52,7 +54,11 @@ detail: >-
   R﻿ound 4: \[2x SC in first st, 1x SC in second and third sts] rep x 6. (24 sts)
 
 
-  R﻿ound 5: [2x SC in first st, 1x SC
+  R﻿ound 5: \[2x SC in first st, 1x SC in second, third and fourth sts] rep x 6. (30 sts)
+
+   \[2x SC, SC, SC, SC] rep x 6 
+
+  R﻿ound 6:  \[2x SC in first st, 1x SC in second, third and fourth sts] rep x 6. (30 sts)
 images:
   - image: /img/draft-excluder-3.jpg
   - image: /img/draft-excluder-1.jpg
