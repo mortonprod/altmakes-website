@@ -25,18 +25,16 @@ detail: >-
   K﻿ey:
 
 
-  S﻿C   single Crochet
+  S﻿C    single crochet  
 
 
-  s﻿ts  stitches
+  s﻿ts   stitches
 
 
-  s﻿t    stitch
+  s﻿t     stitch
 
 
-  r﻿ep  repeat
-
-
+  r﻿ep   repeat
 
 
   **D﻿raft Excluder Pattern:**
@@ -51,17 +49,24 @@ detail: >-
   R﻿ound 3: \[2x SC in first st, 1x SC in second st] rep x 6. (18 sts)
 
 
-  R﻿ound 4: \[2x SC in first st, 1x SC in second and third sts] rep x 6. (24 sts)
+  R﻿ound 4: \[2x SC in first st, 1x SC in the next two sts] rep x 6. (24 sts)
 
 
-  R﻿ound 5: \[2x SC in first st, 1x SC in second, third and fourth sts] rep x 6. (30 sts)
+  R﻿ound 5: \[2x SC in first st, 1x SC in the next three sts] rep x 6. (30 sts)
 
-   \[2x SC, SC, SC, SC] rep x 6 
 
-  R﻿ound 6:  \[2x SC in first st, 1x SC in second, third and fourth sts] rep x 6. (30 sts)
+  R﻿ound 6: \[2x SC in first st, 1x SC in the next four sts] rep x 6. (36 sts)
+
+
+  R﻿ound 7: \[2x SC in first st, 1x SC in the next five sts] rep x 6. (42 sts)
+
+
+  R﻿ound 8: \[2x SC in first st, 1x SC in the next six sts] rep x 6. (48 sts)
+
+
+  R﻿ound 9: \[2x SC in first st, 1x SC in the next seven sts] rep x 6. (54 sts)
 images:
   - image: /img/draft-excluder-3.jpg
-  - image: /img/draft-excluder-1.jpg
 material:
   - text: 4mm hook (US G)
   - text: Stitch Marker
